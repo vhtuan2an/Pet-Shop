@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "844726200879",
+    "firebase_url": "https://shoppet-aef7c-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "shoppet-aef7c",
+    "storage_bucket": "shoppet-aef7c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844726200879:android:9fea1673ecbfd9e322b4da",
+        "android_client_info": {
+          "package_name": "com.example.petshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClHz-Z72d4JN6gGY8yNmJ5EF1Lhx18DyU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
